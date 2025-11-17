@@ -1,0 +1,6 @@
+{
+  "watch": ["src"],
+  "ext": "js,json",
+  "ignore": ["node_modules", "package.json", "package-lock.json"],
+  "exec": "node app.js"
+}

@@ -39,3 +39,4 @@ Proyecto generado automáticamente para el parcial integrador (API REST e-commer
 
 Incluye uso de agregaciones ($lookup, $group, $avg), operadores de modificación ($set, $push, $pull), y protección JWT + middleware admin.
 
+"# Bd2-Mati-Hernandez-Thomas-Aguero" 
